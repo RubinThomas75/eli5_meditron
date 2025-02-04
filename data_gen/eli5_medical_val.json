@@ -1,0 +1,462 @@
+[
+    {
+        "question": "Why do we need to wear sunscreen to protect our skin?",
+        "eli5_answer": "We need to wear sunscreen to protect our skin from getting burned by the sun. Sunscreen helps keep our skin safe and healthy."
+    },
+    {
+        "question": "What makes us feel itchy?",
+        "eli5_answer": "When something like a bug or a scratchy material touches our skin, our body sends a signal to our brain that makes us want to scratch it."
+    },
+    {
+        "question": "How does the respiratory system function?",
+        "eli5_answer": "Your lungs take in air when you breathe, and that air has oxygen in it. The oxygen goes into your blood and travels all around your body to give you energy. Then, your lungs get rid of the waste gas called carbon dioxide when you breathe out."
+    },
+    {
+        "question": "What is a stomach ache and why does it happen?",
+        "eli5_answer": "A stomach ache is when your tummy hurts and feels uncomfortable. It happens when you eat too much food or if you eat something that your tummy doesn't like. It can also happen if you are feeling worried or scared."
+    },
+    {
+        "question": "Why do we need to drink water?",
+        "eli5_answer": "We need to drink water because our bodies are made up of a lot of water and we need it to stay healthy and keep our bodies working properly."
+    },
+    {
+        "question": "What is asthma?",
+        "eli5_answer": "Asthma is when your lungs get really tight and it's hard to breathe. It can make you cough and wheeze too."
+    },
+    {
+        "question": "Can you explain how our lungs help us breathe?",
+        "eli5_answer": "Sure! Our lungs are like big balloons inside our chest. When we breathe in, the balloons get bigger and fill up with air. This air has oxygen in it, which our body needs to stay alive. Then when we breathe out, the balloons get smaller and push the old air out. This helps us breathe and gives our body the air it needs to work properly."
+    },
+    {
+        "question": "How does the liver clean our blood?",
+        "eli5_answer": "The liver acts like a filter for our blood. It takes out harmful things and helps keep our blood clean and healthy."
+    },
+    {
+        "question": "What is the difference between a virus and bacteria?",
+        "eli5_answer": "A virus is much smaller than bacteria and can only survive and reproduce inside of living cells, like plants, animals, or people. Bacteria are larger and can survive and reproduce on their own, without needing a living host."
+    },
+    {
+        "question": "What is the appendix for?",
+        "eli5_answer": "The appendix is a small pouch in your belly that doesn't do much, but sometimes it gets sick and needs to be removed."
+    },
+    {
+        "question": "Why do we get cramps in our muscles?",
+        "eli5_answer": "When we use our muscles a lot, they can get tired and need to rest. Sometimes they can get too tired and start to hurt, which is called a cramp. It's like when you run around too much and need to take a break because your legs hurt."
+    },
+    {
+        "question": "What is a sprained ankle?",
+        "eli5_answer": "A sprained ankle is when you hurt your ankle by twisting it in a funny way, and it makes it hard to walk and hurts a lot."
+    },
+    {
+        "question": "How does the heart respond to exercise?",
+        "eli5_answer": "When you exercise, your heart beats faster and pumps more blood to your muscles to give them the energy they need. This helps your body work better and stay healthy."
+    },
+    {
+        "question": "What is an allergy and how does it affect our bodies?",
+        "eli5_answer": "An allergy is when our body reacts to something that is usually harmless, like food or pollen, by making us sick. It can cause things like sneezing, itching, or trouble breathing."
+    },
+    {
+        "question": "Why do we need to wash our fruits and vegetables before eating them?",
+        "eli5_answer": "We need to wash our fruits and vegetables before eating them to get rid of dirt, germs, and pesticides that can make us sick."
+    },
+    {
+        "question": "What is ADHD?",
+        "eli5_answer": "ADHD is a condition that makes it hard for some people to pay attention, sit still, and control their behavior."
+    },
+    {
+        "question": "What is a virus and how does it make us sick?",
+        "eli5_answer": "A virus is a tiny germ that can make us sick. It gets inside our bodies and starts multiplying, which can cause symptoms like coughing, sneezing, and fever. Our immune system fights back against the virus to help us get better."
+    },
+    {
+        "question": "How does my body know when to feel sleepy?",
+        "eli5_answer": "Your body has a special clock inside called a circadian rhythm. This clock helps your body know when it's time to feel sleepy. When it gets dark outside, your body releases a hormone called melatonin, which makes you feel tired and ready for bed. So when it's nighttime, your body knows it's time to sleep!"
+    },
+    {
+        "question": "What causes a cold and how can we prevent it?",
+        "eli5_answer": "A cold is caused by tiny germs called viruses that can get into your nose and throat. To prevent getting a cold, you can wash your hands often, avoid touching your face, and stay away from people who are sick."
+    },
+    {
+        "question": "How does the endocrine system regulate hormones?",
+        "eli5_answer": "The endocrine system is like a boss that tells the hormones what to do. It sends messages to different parts of the body through the blood to make sure everything is working properly."
+    },
+    {
+        "question": "What happens when we breathe in oxygen?",
+        "eli5_answer": "When we breathe in oxygen, our lungs take the oxygen from the air and send it to our blood. Then, our blood carries the oxygen to all the parts of our body that need it to work properly."
+    },
+    {
+        "question": "How does the kidney filter waste from our blood?",
+        "eli5_answer": "Imagine the kidney as a super smart and tiny filter in our body. It takes all the yucky stuff in our blood, like waste and extra water, and separates them out to keep our blood clean and healthy. So, the kidney is like a little cleaning machine inside us!"
+    },
+    {
+        "question": "Why do I get a runny nose when I have a cold?",
+        "eli5_answer": "When you have a cold, your body releases extra mucus to try and get rid of the germs making you sick. This extra mucus can make your nose runny."
+    },
+    {
+        "question": "How does the lymphatic system fight infection?",
+        "eli5_answer": "The lymphatic system is like a superhero team inside our bodies that helps fight off germs and keep us healthy. It has special cells called lymphocytes that attack and destroy harmful bacteria and viruses. These cells travel through our body in a fluid called lymph, which carries away the bad guys and helps us stay strong and safe."
+    },
+    {
+        "question": "How does my body fight off cancer?",
+        "eli5_answer": "Our body has special cells called immune cells that work to identify and destroy cancer cells. These immune cells are like superheroes that fight off the bad guys (cancer cells) to keep us healthy. Sometimes, our body needs a little help from doctors and medicines to fight off cancer even more effectively."
+    },
+    {
+        "question": "How do we see things?",
+        "eli5_answer": "We see things with our eyes! Our eyes take in light from the world around us and send messages to our brain to tell us what we are looking at. It's like a camera that sends pictures to our brain for us to see."
+    },
+    {
+        "question": "Why do I need to eat food?",
+        "eli5_answer": "You need to eat food because it gives your body energy and helps you grow big and strong. Just like how cars need gas to run, our bodies need food to work properly."
+    },
+    {
+        "question": "What is a heartbeat?",
+        "eli5_answer": "A heartbeat is the sound your heart makes when it beats to pump blood around your body. It sounds like \"thump-thump, thump-thump\" and you can feel it if you put your hand on your chest."
+    },
+    {
+        "question": "How does our body fight off germs when we get sick?",
+        "eli5_answer": "When we get sick, our body has special soldiers called white blood cells that fight off the germs like an army. They work together to attack and destroy the germs so we can feel better."
+    },
+    {
+        "question": "What causes heartburn?",
+        "eli5_answer": "Heartburn is caused by stomach acid moving up into the esophagus, which is the tube that carries food from your mouth to your stomach. This can happen when you eat too much, eat too quickly, or eat foods that are spicy or fatty. It can also be caused by certain medications or conditions like acid reflux."
+    },
+    {
+        "question": "How does my body grow?",
+        "eli5_answer": "When you eat food, your body takes the nutrients from the food and uses them to help you grow bigger and stronger. Your bones also grow longer and your muscles get stronger as you play and move around. This is how your body grows as you get older!"
+    },
+    {
+        "question": "How does a broken bone heal?",
+        "eli5_answer": "When you break a bone, your body sends special cells to the broken part to fix it. These cells build new bone around the break, like putting pieces of a puzzle back together. Over time, the bone gets stronger and heals."
+    },
+    {
+        "question": "How does the spleen help the body?",
+        "eli5_answer": "The spleen helps the body by cleaning the blood and fighting off germs and infections. It also helps make new blood cells and stores extra blood in case we need it."
+    },
+    {
+        "question": "How do our muscles move?",
+        "eli5_answer": "Our muscles move when our brain sends signals through our nerves to tell them to contract or relax. This makes the muscles shorten or lengthen, which allows us to move our bodies."
+    },
+    {
+        "question": "Can you explain why we need vaccines?",
+        "eli5_answer": "Sure! Vaccines help our bodies fight off germs called viruses and bacteria that can make us sick. They help keep us healthy and stop us from getting really sick. It's like having an army inside our bodies to protect us!"
+    },
+    {
+        "question": "What causes a cut to scab over?",
+        "eli5_answer": "When you get a cut, your body sends special cells to the area to help it heal. These cells make a sticky substance called a scab that covers the cut and protects it while new skin grows underneath."
+    },
+    {
+        "question": "What are allergies?",
+        "eli5_answer": "Allergies are when your body reacts to something like pollen or food in a way that makes you sneeze, have a runny nose, or get itchy skin."
+    },
+    {
+        "question": "Why do we need to eat a variety of foods to stay healthy?",
+        "eli5_answer": "Eating different kinds of foods helps our bodies get all the vitamins and nutrients they need to grow strong and stay healthy. Just like how we need different toys and games to have fun, we need different foods to keep our bodies happy and strong."
+    },
+    {
+        "question": "What happens when we get a fever?",
+        "eli5_answer": "When we get a fever, our body gets hot because it is fighting off germs that are making us sick. This helps our body get rid of the germs and makes us feel better."
+    },
+    {
+        "question": "What is a brain made of?",
+        "eli5_answer": "A brain is made of lots of tiny cells called neurons that help us think, feel, and do things like move and remember stuff."
+    },
+    {
+        "question": "Why do we need to go to the doctor for check-ups?",
+        "eli5_answer": "We go to the doctor for check-ups to make sure we are healthy and to catch any problems early before they get worse."
+    },
+    {
+        "question": "What is a stomach virus?",
+        "eli5_answer": "A stomach virus is when tiny germs get inside your tummy and make it feel yucky and give you a tummy ache and make you throw up or have diarrhea."
+    },
+    {
+        "question": "What is cancer and how does it start?",
+        "eli5_answer": "Cancer is a disease where the body's cells start to grow out of control and form lumps called tumors. It can start when something goes wrong with a cell's DNA, which is like the cell's instruction manual. This can happen because of things like smoking, too much sun exposure, or just by chance."
+    },
+    {
+        "question": "47",
+        "eli5_answer": "47 is a number that comes after 46 and before 48. It is made up of the digits 4 and 7."
+    },
+    {
+        "question": "What is a sunburn and how does it happen?",
+        "eli5_answer": "A sunburn is when your skin turns red and hurts because you were outside in the sun too long without sunscreen. The sun's rays can be strong and they can hurt your skin if you stay in the sun for too long."
+    },
+    {
+        "question": "How does my body fight allergies?",
+        "eli5_answer": "When your body thinks something is dangerous, like pollen or dust, it sends out special soldiers called antibodies to protect you. These antibodies fight off the bad stuff and stop you from getting sick."
+    },
+    {
+        "question": "Can you explain how our bones grow?",
+        "eli5_answer": "Sure! Our bones grow because our bodies have special cells called osteoblasts that help make new bone tissue. As we grow, these cells add more bone material to our existing bones, making them longer and stronger. Just like building with blocks, our bodies keep adding more bone material until we reach adulthood."
+    },
+    {
+        "question": "Why do we need to breathe deeply when exercising?",
+        "eli5_answer": "When we exercise, our muscles need more oxygen to work properly. Breathing deeply helps us get more oxygen into our bodies quickly so that our muscles can keep moving and we can stay strong and healthy."
+    },
+    {
+        "question": "How does my heart pump blood?",
+        "eli5_answer": "Your heart is like a pump that squeezes and pushes blood through your body. It has four rooms called chambers that fill up with blood and then squeeze it out. This helps the blood travel all around your body and bring oxygen and nutrients to your cells."
+    },
+    {
+        "question": "Why do we feel emotions like happiness and sadness?",
+        "eli5_answer": "We feel happy when good things happen, like getting a present or being with friends. We feel sad when bad things happen, like losing a toy or saying goodbye. Emotions help us understand how we feel about things and make sense of the world around us."
+    },
+    {
+        "question": "What is a sore throat and how can we treat it?",
+        "eli5_answer": "A sore throat is when your throat feels scratchy and hurts when you swallow. You can treat it by drinking lots of water, resting your voice, and taking medicine like lozenges or throat spray."
+    },
+    {
+        "question": "How does the flu spread?",
+        "eli5_answer": "The flu spreads when someone who is sick coughs or sneezes, and tiny droplets with the flu virus in them go into the air. If someone else breathes in those droplets or touches a surface they landed on, they can get sick too."
+    },
+    {
+        "question": "Why do we need to breathe oxygen?",
+        "eli5_answer": "We need to breathe oxygen because it helps our bodies make energy and keep us alive. Without oxygen, we wouldn't be able to survive."
+    },
+    {
+        "question": "What causes a bee sting to hurt?",
+        "eli5_answer": "When a bee stings you, it releases a chemical called venom into your skin. This venom irritates your skin and causes pain, redness, and swelling."
+    },
+    {
+        "question": "How do we digest food?",
+        "eli5_answer": "When we eat food, our teeth break it into small pieces. Then, our stomach uses acids and enzymes to turn the food into a mushy substance. Next, our intestines absorb the nutrients from the food and our body uses them for energy. Finally, whatever is left over comes out as poop."
+    },
+    {
+        "question": "Why do we have a spine?",
+        "eli5_answer": "We have a spine to help us stand up straight and move around. It also protects our spinal cord, which is like the body's super important message system."
+    },
+    {
+        "question": "What are vaccines?",
+        "eli5_answer": "Vaccines are like superhero medicine that help your body fight off germs and stay healthy. They are like a shield that protects you from getting sick."
+    },
+    {
+        "question": "Why do we have different blood types?",
+        "eli5_answer": "We have different blood types because our bodies have different proteins on our red blood cells, called antigens. These antigens help our immune system recognize and fight off harmful invaders, like germs. It's like having different superhero teams in our bodies to keep us healthy!"
+    },
+    {
+        "question": "How does my body make muscles strong?",
+        "eli5_answer": "Your body makes muscles strong by lifting heavy things and eating healthy food. This helps your muscles grow and get bigger and stronger."
+    },
+    {
+        "question": "Why do we need to exercise our muscles?",
+        "eli5_answer": "We need to exercise our muscles so they stay strong and healthy. Just like how we need to eat fruits and vegetables to keep our bodies healthy, we need to exercise to keep our muscles strong. This helps us do things like run, jump, and play without getting tired easily."
+    },
+    {
+        "question": "Why do we feel hot when we have a fever?",
+        "eli5_answer": "When we have a fever, our body is fighting off germs that are making us sick. To help kill the germs, our body raises our temperature, making us feel hot. This helps our immune system work better and fight off the sickness."
+    },
+    {
+        "question": "What is the purpose of mucus in our bodies?",
+        "eli5_answer": "Mucus is like a sticky, slimy substance in our bodies that helps to trap germs and dirt so they can't get into our lungs and make us sick. It also helps to keep our noses and throats moist and comfortable."
+    },
+    {
+        "question": "How does medicine work?",
+        "eli5_answer": "Medicine is like a superhero that fights off the bad guys, which are the germs making you sick. When you take medicine, it helps your body get rid of the germs so you can feel better and be healthy again."
+    },
+    {
+        "question": "What is the difference between a stomachache and indigestion?",
+        "eli5_answer": "A stomachache is when your tummy hurts, but indigestion is when your tummy hurts because your food isn't digesting properly."
+    },
+    {
+        "question": "What causes a cough?",
+        "eli5_answer": "When something irritates your throat or airway, your body tries to get rid of it by coughing."
+    },
+    {
+        "question": "What is a fever and why do we get it?",
+        "eli5_answer": "A fever is when your body temperature goes up because you are sick. Your body gets a fever to help fight off germs and make you feel better."
+    },
+    {
+        "question": "Why do I have to go to the doctor for shots?",
+        "eli5_answer": "You go to the doctor for shots to help keep you healthy and protect you from getting sick. Shots help your body build up defenses against germs that can make you feel yucky."
+    },
+    {
+        "question": "How does the digestive system absorb nutrients?",
+        "eli5_answer": "When you eat food, it goes into your stomach and then travels through your intestines. Your intestines have tiny little hairs called villi that help absorb the nutrients from the food. These nutrients are then sent into your bloodstream to give your body energy and help you grow big and strong."
+    },
+    {
+        "question": "What is allergies and why do people have them?",
+        "eli5_answer": "Allergies are when your body reacts to something it thinks is harmful, like pollen or peanuts. People have allergies because their bodies think these things are dangerous and try to protect them by making them sneeze or get itchy."
+    },
+    {
+        "question": "How does my body process medications?",
+        "eli5_answer": "When you take medicine, your body breaks it down into smaller parts and uses it to help you feel better. Your body knows where to send the medicine to make you feel better."
+    },
+    {
+        "question": "How do vaccines work?",
+        "eli5_answer": "Vaccines help your body fight off germs that can make you sick. They teach your body how to recognize and attack the germs so you don't get sick from them later on."
+    },
+    {
+        "question": "How does the brain process emotions?",
+        "eli5_answer": "Our brain is like a computer that helps us feel things like happy, sad, scared, or excited. When we see or experience something, our brain sends messages to different parts of our body to tell us how to feel. It's like having a special switch in our brain that turns on different emotions depending on what is happening around us."
+    },
+    {
+        "question": "How does the body grow?",
+        "eli5_answer": "When you eat healthy food and drink milk, your body gets bigger and stronger. Your bones and muscles grow and you get taller. Just like a plant needs water and sunlight to grow, your body needs good food and rest to grow big and healthy."
+    },
+    {
+        "question": "What causes diabetes?",
+        "eli5_answer": "Diabetes is caused by your body not being able to use sugar properly."
+    },
+    {
+        "question": "How does the digestive system break down food?",
+        "eli5_answer": "The digestive system breaks down food by using special chemicals called enzymes to chop up the food into tiny pieces. These tiny pieces are then absorbed by the body to give it energy and nutrients."
+    },
+    {
+        "question": "What is the difference between a broken bone and a sprain?",
+        "eli5_answer": "A broken bone means the bone is cracked or separated in two pieces, while a sprain means the ligaments (which hold your bones together) are stretched or torn."
+    },
+    {
+        "question": "What happens when we get a bruise?",
+        "eli5_answer": "When we get a bruise, it means we hurt ourselves and the inside of our body gets a little bit broken. Our body sends special helpers to fix the broken part, and that's why the bruise looks different colors like purple, blue, or green. Eventually, the helpers fix the broken part and the bruise goes away."
+    },
+    {
+        "question": "How does the lungs breathe in air?",
+        "eli5_answer": "When you breathe in air, your lungs expand like a balloon to make room for the air to come in. Then, your diaphragm, which is like a big muscle under your lungs, moves down to help pull the air in. Finally, the air travels through your windpipe and into your lungs, where it gets oxygen to help your body work properly."
+    },
+    {
+        "question": "What causes chickenpox?",
+        "eli5_answer": "Chickenpox is caused by a virus called varicella-zoster. It spreads from person to person through coughing, sneezing, or touching the blisters of someone who has chickenpox."
+    },
+    {
+        "question": "How does the thyroid gland work?",
+        "eli5_answer": "The thyroid gland is like a little boss in your body that tells it how fast to go. It makes a special juice called thyroid hormone that helps control things like how much energy you have and how warm you feel. If the boss makes too much juice, you might feel jittery and hot. If it doesn't make enough, you might feel tired and cold."
+    },
+    {
+        "question": "Why do I need to get vaccinations?",
+        "eli5_answer": "Getting vaccinations helps protect you from getting sick by teaching your body how to fight off germs that can make you feel bad. It's like putting on a superhero cape to keep you safe and healthy!"
+    },
+    {
+        "question": "Why do we feel sick sometimes?",
+        "eli5_answer": "Sometimes our bodies can get sick because there are germs that make us feel bad. Our bodies try to fight off the germs and that can make us feel sick. It's like our body's way of telling us that something is wrong and we need to rest and get better."
+    },
+    {
+        "question": "How do we see colors?",
+        "eli5_answer": "Our eyes have special cells called cones that can detect different colors. When light reflects off an object and enters our eyes, the cones send signals to our brain about the colors they see. This helps us see all the different colors in the world around us."
+    },
+    {
+        "question": "What is a bee sting and why does it hurt?",
+        "eli5_answer": "A bee sting is when a bee uses its stinger to poke you and leave venom in your skin. It hurts because the venom is like a tiny, sharp, poisonous sword that makes your skin feel ouchie."
+    },
+    {
+        "question": "How do my muscles move?",
+        "eli5_answer": "Your muscles move when your brain tells them to by sending signals through your nerves. These signals make your muscles contract and relax, which makes them move."
+    },
+    {
+        "question": "How does our body know when to be hungry?",
+        "eli5_answer": "Our bodies have a special clock inside that tells us when we need to eat. When the clock says it's time to eat, our tummy makes noises and feels empty, which tells our brain that we need food. Then our brain tells us that we are hungry!"
+    },
+    {
+        "question": "How does our body age?",
+        "eli5_answer": "When we are born, our bodies are like new toys with all the parts working perfectly. But as we grow older, our body parts start to wear out and get old just like how toys can break over time. This is because our cells, which are like tiny building blocks in our body, can't keep working as well as they used to. So, as we get older, our body starts to slow down and things like wrinkles and gray hair start to show up."
+    },
+    {
+        "question": "What is the purpose of the spleen in our bodies?",
+        "eli5_answer": "The spleen helps our bodies fight off germs and make new blood cells."
+    },
+    {
+        "question": "Why do we need to drink water every day?",
+        "eli5_answer": "We need to drink water every day because our bodies need it to stay healthy and work properly. Water helps us stay hydrated, helps our organs function, and helps us stay energized."
+    },
+    {
+        "question": "How does my brain help me think and learn?",
+        "eli5_answer": "Your brain is like a super powerful computer that helps you think and learn new things. It has special parts that work together to store information, solve problems, and make decisions. When you learn something new, your brain creates connections between different parts to help you remember and understand it better. So basically, your brain is like a really smart helper that makes it easier for you to learn and understand things."
+    },
+    {
+        "question": "What causes a rash?",
+        "eli5_answer": "A rash is usually caused by something like an allergic reaction or an illness that makes your skin red and itchy."
+    },
+    {
+        "question": "How does food turn into energy in our bodies?",
+        "eli5_answer": "When we eat food, our bodies break it down into tiny pieces called nutrients. These nutrients are then sent to different parts of our body through our blood. Our cells use these nutrients to make energy, which helps us move, play, and stay healthy. Just like how cars need gas to run, our bodies need food to give us energy!"
+    },
+    {
+        "question": "What are the different parts of the human brain responsible for?",
+        "eli5_answer": "The human brain has different parts that are responsible for different things. For example, the frontal lobe helps us make decisions and think about the future, the temporal lobe helps us hear and understand language, and the occipital lobe helps us see things. Each part of the brain has a special job to help us do things like move, see, hear, think, and feel."
+    },
+    {
+        "question": "What causes dizziness?",
+        "eli5_answer": "Dizziness can be caused by things like spinning around really fast, standing up too quickly, or being sick."
+    },
+    {
+        "question": "How does our body make energy from food?",
+        "eli5_answer": "When we eat food, our body breaks it down into tiny pieces called nutrients. These nutrients travel through our blood to our cells, where they are turned into energy. Just like how a car needs gas to run, our bodies need food to give us energy to play and do all the things we love!"
+    },
+    {
+        "question": "How do cuts and bruises heal?",
+        "eli5_answer": "When you get a cut or bruise, your body sends special helpers called platelets and white blood cells to fix it. They make a scab to protect the cut and new skin grows underneath. Once the new skin is ready, the scab falls off and the cut or bruise is all better!"
+    },
+    {
+        "question": "What is the difference between a sore throat and strep throat?",
+        "eli5_answer": "A sore throat is when your throat hurts and feels scratchy, while strep throat is when a specific type of bacteria called streptococcus causes your throat to hurt a lot and you might have a fever."
+    },
+    {
+        "question": "How does the pancreas regulate blood sugar?",
+        "eli5_answer": "The pancreas is like a superhero that helps keep your blood sugar just right. It makes a special hormone called insulin that tells your body's cells to use the sugar from your food for energy. If your blood sugar gets too high, the pancreas releases more insulin to bring it back down. If it gets too low, the pancreas releases a different hormone called glucagon to raise it back up."
+    },
+    {
+        "question": "Why do we get fevers when we're sick?",
+        "eli5_answer": "When we get sick, our bodies fight off germs by making us hot inside. This makes it harder for the germs to survive and helps us feel better. This hot feeling is called a fever."
+    },
+    {
+        "question": "How does the respiratory system help us breathe?",
+        "eli5_answer": "The respiratory system helps us breathe by bringing oxygen into our bodies and getting rid of carbon dioxide. We breathe in air through our nose or mouth, it goes down our windpipe, and then into our lungs where the oxygen is absorbed into our blood. When we breathe out, the carbon dioxide is released back into the air."
+    },
+    {
+        "question": "What is the difference between a cut and a scrape?",
+        "eli5_answer": "A cut is when you get a boo-boo with something sharp like a knife and it bleeds. A scrape is when you fall down and get a boo-boo that is not bleeding."
+    },
+    {
+        "question": "Why do we get hiccups?",
+        "eli5_answer": "Hiccups happen when our diaphragm (a big muscle that helps us breathe) gets a little bit confused and starts to spasm. This causes us to take quick breaths in that make a funny sound!"
+    },
+    {
+        "question": "How does my brain tell my body to move?",
+        "eli5_answer": "Your brain sends messages to your body through a special system called the nervous system. These messages travel really fast along your nerves to tell your muscles to move. It's like your brain is the boss and your body is the worker following its instructions."
+    },
+    {
+        "question": "How does the sense of smell work?",
+        "eli5_answer": "Your nose can smell things because there are little tiny things called molecules in the air that have different smells. When you breathe in, these molecules go up your nose and then they touch special cells inside your nose that can smell them. These cells send a message to your brain to tell you what the smell is."
+    },
+    {
+        "question": "What are the different parts of the digestive system and what do they do?",
+        "eli5_answer": "Your digestive system has different parts that work together to help your body break down and absorb food. These parts include the mouth, esophagus, stomach, small intestine, and large intestine. The mouth chews and swallows food, the esophagus carries food to the stomach, the stomach breaks down food with digestive juices, the small intestine absorbs nutrients from food, and the large intestine absorbs water and gets rid of waste."
+    },
+    {
+        "question": "How does my body make mucus?",
+        "eli5_answer": "Your body makes mucus by producing special cells in your nose, throat, and lungs that release a sticky liquid. This liquid helps to trap germs and dust so they can be coughed or sneezed out of your body."
+    },
+    {
+        "question": "How does the brain control our sleep cycles?",
+        "eli5_answer": "The brain has a special clock inside that tells it when to go to sleep and when to wake up. It sends signals to different parts of the body to make us feel sleepy or awake."
+    },
+    {
+        "question": "How does the urinary system remove waste?",
+        "eli5_answer": "The urinary system removes waste from your body by making pee. Your kidneys filter out waste from your blood, and then the waste goes to your bladder. When your bladder gets full, you go to the bathroom and pee out the waste."
+    },
+    {
+        "question": "How does the brain develop as we grow?",
+        "eli5_answer": "As we grow, our brains get bigger and make new connections. This helps us learn new things and remember them better. It's like a little plant growing bigger and stronger every day!"
+    },
+    {
+        "question": "What are vitamins and why are they important?",
+        "eli5_answer": "Vitamins are tiny things that help keep our bodies healthy. They are like little helpers that make sure we grow, stay strong, and feel good. We need vitamins because they give us energy, help us fight off germs, and make sure our bodies work the right way."
+    },
+    {
+        "question": "Why do some people have allergies?",
+        "eli5_answer": "Some people have allergies because their bodies react to certain things like pollen, pet dander, or food in a way that makes them sneeze, itch, or feel sick."
+    },
+    {
+        "question": "What causes a cold or the flu?",
+        "eli5_answer": "A cold or the flu is caused by tiny germs called viruses that you can catch from other people."
+    },
+    {
+        "question": "Why do we cry?",
+        "eli5_answer": "We cry because it helps us show our feelings when we're sad, hurt, or even happy."
+    },
+    {
+        "question": "What are germs?",
+        "eli5_answer": "Germs are tiny little things that can make you sick if they get inside your body. They are like little bugs that can spread from person to person if you don't wash your hands or cover your mouth when you sneeze."
+    },
+    {
+        "question": "What is the purpose of tears?",
+        "eli5_answer": "Tears help keep our eyes clean and healthy. They also come out when we feel sad or happy."
+    }
+]
